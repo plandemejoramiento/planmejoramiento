@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/plandemejoramiento/planmejoramiento.git}#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.10.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.24.7",
